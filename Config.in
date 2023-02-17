@@ -1,0 +1,3 @@
+source "$BR2_EXTERNAL_HOSTMYOWN_PATH/package/hello-autotools/Config.in"
+source "$BR2_EXTERNAL_HOSTMYOWN_PATH/package/hello-cmake/Config.in"
+source "$BR2_EXTERNAL_HOSTMYOWN_PATH/package/hello-generic/Config.in"
