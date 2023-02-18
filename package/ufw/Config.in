@@ -1,0 +1,6 @@
+config BR2_PACKAGE_UFW
+	bool "ufw"
+	help
+	  Uncomplicated Firewall.
+
+	  https://hostmyown.com
